@@ -3,6 +3,7 @@
 ## Gears
 #### Included Files
 <a href="Gears/rootGear.SLDPRT">rootGear.SLDPRT</a><br/>
+In this assignment I made reusable gears using equations. Each dimention can be changed and the gear will function the same, allowing for infinite reuse. I learned some gear 
 
 ## Gearbox
 #### Included Files
@@ -15,6 +16,7 @@
 <a href="Gears/plate.SLDPRT">plate.SLDPRT</a><br/>
 <a href="Gears/rootGear.SLDPRT">rootGear.SLDPRT</a><br/>
 <a href="Gears/spacer.SLDPRT">spacer.SLDPRT</a><br/>
+<IMG SRC="Media/GearboxGif.gif"  width="300" height="208">
 
 
 ## Motion Study
@@ -27,7 +29,8 @@
 <a href="MotionStudy/servoArm.SLDPRT">servoArm.SLDPRT</a><br/>
 <a href="MotionStudy/servoMount.SLDPRT">servoMount.SLDPRT</a><br/>
 <a href="MotionStudy/shelf.SLDPRT">shelf.SLDPRT</a><br/>
-<IMG SRC="Media/MotionStudiesGif.gif"  width="250" height="200">
+<IMG SRC="Media/MotionStudiesGif.gif"  width="300" height="250">
+  
 ## Stress Analysis
 #### Included Files
 <a href="StressAnalysis/Arm.SLDPRT">Arm.SLDPRT</a><br/>
