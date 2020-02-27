@@ -27,7 +27,7 @@
 <a href="MotionStudy/servoArm.SLDPRT">servoArm.SLDPRT</a><br/>
 <a href="MotionStudy/servoMount.SLDPRT">servoMount.SLDPRT</a><br/>
 <a href="MotionStudy/shelf.SLDPRT">shelf.SLDPRT</a><br/>
-
+<IMG SRC="Media/MotionStudiesGif.gif"  width="250" height="200">
 ## Stress Analysis
 #### Included Files
 <a href="StressAnalysis/Arm.SLDPRT">Arm.SLDPRT</a><br/>
