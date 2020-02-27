@@ -5,6 +5,7 @@
 <a href="Gears/rootGear.SLDPRT">rootGear.SLDPRT</a><br/>
 <br/>
 In this assignment I made reusable gears using equations. Each dimention can be changed and the gear will function the same, allowing for infinite reuse. I learned some gear terms and refreshed my knowledge of configurations in Solidworks.
+<br/><br/>
 <IMG SRC="Media/Gear30T1.5Mod.PNG"  width="192" height="200"><IMG SRC="Media/Gear30T1.0Mod.PNG"  width="192" height="200">
 <IMG SRC="Media/Gear10T1.5Mod.PNG"  width="192" height="200"><IMG SRC="Media/Gear10T1.0Mod.PNG"  width="192" height="200">
 
