@@ -4,7 +4,7 @@
 #### Included Files
 <a href="Gears/rootGear.SLDPRT">rootGear.SLDPRT</a><br/>
 <br/>
-In this assignment I made reusable gears using equations. Each dimention can be changed and the gear will function the same, allowing for infinite reuse. I learned some gear terms and refreshed my knowledge of configurations in solidworks.
+In this assignment I made reusable gears using equations. Each dimention can be changed and the gear will function the same, allowing for infinite reuse. I learned some gear terms and refreshed my knowledge of configurations in Solidworks.
 
 ## Gearbox
 #### Included Files
